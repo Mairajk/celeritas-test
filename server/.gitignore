@@ -45,7 +45,7 @@ Thumbs.db
 *.mov
 *.wmv
 
-env
+.env
 
 sftp-config*
 
